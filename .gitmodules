@@ -1,0 +1,3 @@
+[submodule "flux-cd-poc-private"]
+	path = flux-cd-poc-private
+	url = https://github.com/n-barnes/flux-cd-poc-private

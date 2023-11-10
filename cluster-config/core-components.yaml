@@ -6,9 +6,9 @@ metadata:
 spec:
   recurseSubmodules: true
   interval: 0m30s
-  url: "https://github.com/n-barnes/flux-cluster-b"
+  url: https://github.com/n-barnes/flux-cluster-b.git
   ref:
-    branch: master
+    tag: master
 
 ---
 
@@ -22,6 +22,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: core-components
-  path: "./cluster-config/core-applications"
+  path: "./cluster-config"
   prune: true
   timeout: 1m

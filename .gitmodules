@@ -1,0 +1,3 @@
+[submodule "cluster-config/core-applications"]
+	path = cluster-config/core-applications
+	url = https://github.com/n-barnes/core-applications

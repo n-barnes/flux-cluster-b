@@ -4,6 +4,7 @@ metadata:
   name: core-components
   namespace: flux-system
 spec:
+  recurseSubmodules: true
   interval: 0m30s
   url: "https://github.com/n-barnes/flux-cluster-b"
   ref:

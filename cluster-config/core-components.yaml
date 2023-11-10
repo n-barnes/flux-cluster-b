@@ -8,7 +8,7 @@ spec:
   interval: 0m30s
   url: https://github.com/n-barnes/flux-cluster-b.git
   ref:
-    tag: master
+    branch: master
 
 ---
 
